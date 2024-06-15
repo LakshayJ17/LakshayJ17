@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Stock market calculator](https://stockmarket-calculator.netlify.app/)
 
-- 💬 Ask me about **Python, Java, JavaScript, DSA**
+- 💬 Ask me about **Python, C, Java, JavaScript, DSA**
 
 - 📫 How to reach me **lakshayjain01lj@gmail.com**
 
