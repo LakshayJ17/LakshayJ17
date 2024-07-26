@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lakshay Jain</h1>
 <h3 align="center">A passionate developer from India</h3>
+
 - 🚀 Check out [Portfolio website](https://madebylakshay.vercel.app/)
 
 - 🔭 I’m currently working on [Stock market calculator](https://stockmarket-calculators.netlify.app/)
