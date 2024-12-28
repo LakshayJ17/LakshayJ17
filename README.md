@@ -3,7 +3,6 @@
 
 - 🚀 Check out [Portfolio website](https://madebylakshay.vercel.app/)
 
-- 🔭 I’m currently working on [Stock market calculator](https://stockmarket-calculators.netlify.app/)
 
 - 💬 Ask me about **Python, C, Java, JavaScript,Tailwind, React, DSA**
 
