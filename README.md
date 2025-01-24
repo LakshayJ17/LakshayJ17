@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lakshay Jain</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🚀 Check out [Portfolio website](https://madebylakshay.vercel.app/)
 
 
 - 💬 Ask me about **Python, C, Java, JavaScript,Tailwind, React, DSA**
