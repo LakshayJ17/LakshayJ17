@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 - **Languages:** Python, JavaScript, Java, C++
 - **Frameworks & Libraries:** React, Node.js, Express
-- **Databases:** MySQL, MongoDB, PostgreSQL
+- **Databases:** MySQL, MongoDB
 - **Tools & Platforms:** Git
 
 ## 📈 GitHub Stats
@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 - Advanced React patterns and hooks
 - TypeScript
-- DSA
+- Cloud Computing with AWS (future goal)
 
 ## 📫 How to Reach Me
 
