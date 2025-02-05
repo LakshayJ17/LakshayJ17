@@ -19,9 +19,8 @@ Welcome to my GitHub profile! I'm passionate about coding and technology, always
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 
-## 📈 GitHub Stats
-
-![LakshayJ17's GitHub stats](https://github-readme-stats.vercel.app/api?username=LakshayJ17&show_icons=true&theme=radical)
+## 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LakshayJ17&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
 ## 🌟 Top Repositories
 
