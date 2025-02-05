@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about coding and technology, always
 - 🌱 Currently exploring AI and Machine Learning
 - 🎓 Computer Science Graduate
 - 💬 Ask me about JavaScript, Python, and Web Development
-- 📫 Reach me at [lakshayjain01lj@gmail.com](mailto:my_email@example.com)
+- 📫 Reach me at [lakshayjain01lj@gmail.com](mailto:lakshayjain01lj@gmail.com)
 
 ## 🛠️ Technologies & Tools
 
@@ -26,6 +26,9 @@ Welcome to my GitHub profile! I'm passionate about coding and technology, always
 ## 🌟 Top Repositories
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LakshayJ17&repo=paytm&theme=radical)](https://github.com/LakshayJ17/paytm)
+
+## 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LakshayJ17&theme=radical)
 
 ## 📫 Connect with Me
 
