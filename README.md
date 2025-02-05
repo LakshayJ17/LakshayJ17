@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about coding and technology, always
 - 🌱 Currently exploring AI and Machine Learning
 - 🎓 Computer Science Graduate
 - 💬 Ask me about JavaScript, Python, and Web Development
-- 📫 Reach me at [my_email@example.com](mailto:my_email@example.com)
+- 📫 Reach me at [lakshayjain01lj@gmail.com](mailto:my_email@example.com)
 
 ## 🛠️ Technologies & Tools
 
