@@ -5,9 +5,7 @@ Welcome to my GitHub profile! I'm passionate about coding and technology, always
 ## 🚀 About Me
 
 - 💻 Full-stack Developer
-- 🌱 Currently exploring AI and Machine Learning
-- 🎓 Computer Science Graduate
-- 💬 Ask me about JavaScript, Python, and Web Development
+- 💬 Ask me about Web Development & DSA
 - 📫 Reach me at [lakshayjain01lj@gmail.com](mailto:lakshayjain01lj@gmail.com)
 
 ## 🛠️ Technologies & Tools
