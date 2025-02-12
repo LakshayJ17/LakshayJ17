@@ -1,6 +1,6 @@
 # Hello, I'm Lakshay Jain 👋
 
-Welcome to my GitHub profile! I'm passionate about coding and technology, always eager to learn and contribute to the open-source community.
+Welcome to my GitHub profile! I'm passionate about coding and technology, always eager to learn
 
 ## 🚀 About Me
 
