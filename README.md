@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm passionate about coding and technology, always
 
 ## 🌟 Top Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LakshayJ17&repo=paytm&theme=radical)](https://github.com/LakshayJ17/paytm)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LakshayJ17&repo=paytm-app&theme=radical)](https://github.com/LakshayJ17/paytm-app)
 
 
 ## 👀 Visitor Count
