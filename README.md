@@ -31,11 +31,8 @@ Welcome to my GitHub profile! I'm passionate about coding and technology, always
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LakshayJ17&repo=paytm-app&theme=radical)](https://github.com/LakshayJ17/paytm-app)
 
 
-## 👀 Visitor Count
-
-![Visitor Count](https://komarev.com/ghpvc/?username=LakshayJ17&color=blue)
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshayj17)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/meLaksh17/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/lakshcode)
