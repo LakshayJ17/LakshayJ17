@@ -25,7 +25,8 @@ Welcome to my GitHub profile! I'm passionate about coding and technology, always
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Prisma ORM](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)**
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Hono](https://img.shields.io/badge/-Hono-FF5733?style=flat&logo=hono&logoColor=white)**
 
 ## 🌟 Top Repositories
 
