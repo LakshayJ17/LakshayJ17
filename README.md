@@ -10,8 +10,6 @@ Welcome to my GitHub profile! I'm passionate about coding and technology, always
 
 ## 🛠️ Technologies & Tools
 
-## 🛠️ Technologies & Tools
-
 ### Frontend Development
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -36,11 +34,11 @@ Welcome to my GitHub profile! I'm passionate about coding and technology, always
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ## 🌟 Top Repositories
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LakshayJ17&repo=paytm-app&theme=radical)](https://github.com/LakshayJ17/paytm-app)
-
 
 ## 📫 Connect with Me
 
