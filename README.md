@@ -2,13 +2,6 @@
 
 Welcome to my GitHub profile! I'm passionate about coding and technology, always eager to learn and contribute to exciting projects.
 
----
-
-<div align="center">
-  <img src="https://github.com/LakshayJ17/LakshayJ17/assets/your-avatar.gif" alt="Lakshay's animated avatar" width="180" />
-</div>
-
----
 
 ## 🚀 About Me
 
@@ -60,10 +53,6 @@ Welcome to my GitHub profile! I'm passionate about coding and technology, always
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=LakshayJ17&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=LakshayJ17&show_icons=true&theme=radical&hide_border=true" alt="Lakshay's GitHub Stats" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshayJ17&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
