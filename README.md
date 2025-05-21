@@ -72,20 +72,9 @@ Welcome to my GitHub profile! I'm passionate about coding and technology, always
 ## 🌟 Top Repositories
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LakshayJ17&repo=paytm-app&theme=radical)](https://github.com/LakshayJ17/paytm-app)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LakshayJ17&repo=chat-app&theme=radical)](https://github.com/LakshayJ17/chat-app)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LakshayJ17&repo=portfolio&theme=radical)](https://github.com/LakshayJ17/portfolio)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LakshayJ17&repo=medium-blog-website&theme=radical)](https://github.com/LakshayJ17/medium-blog-website)
 
----
 
-## 📚 Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🏆 Contributed to **paytm-app** by adding UPI payments
-2. 🐛 Fixed bug in **chat-app** authentication flow
-3. 🚀 Deployed new version of **portfolio** website
-<!--END_SECTION:activity-->
-
----
 
 ## 📫 Connect with Me
 
