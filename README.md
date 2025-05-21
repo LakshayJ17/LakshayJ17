@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I'm passionate about coding and technology, always
 - 💻 **Full-stack Developer**
 - 👨‍💻 Building web apps, APIs, and scalable systems
 - 💬 Ask me about **Web Development** or **Data Structures & Algorithms**
-- 🧑‍🏫 I love mentoring and collaborating on open-source projects
 - 📫 Reach me at [lakshayjain01lj@gmail.com](mailto:lakshayjain01lj@gmail.com)
 
 ---
