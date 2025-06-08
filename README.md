@@ -14,9 +14,6 @@
 - 💻 Building web apps, APIs & scalable systems
 - 🤖 Exploring and creating with Generative AI
 - 🧠 Maintaining several GenAI projects:
-  - [persona](https://github.com/LakshayJ17/persona): Personalized AI chatbot framework
-  - [chaidocs-rag](https://github.com/LakshayJ17/chaidocs-rag): RAG for Chai documentation
-  - [rag-pdf](https://github.com/LakshayJ17/rag-pdf): RAG pipeline for PDFs
   - [Ai-agent-project](https://github.com/LakshayJ17/Ai-agent-project): Autonomous GenAI agent platform
   - [persona-python](https://github.com/LakshayJ17/persona-python): Python persona chatbot
   - [rag-pdf-project](https://github.com/LakshayJ17/rag-pdf-project): Advanced PDF RAG
