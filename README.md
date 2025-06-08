@@ -1,13 +1,21 @@
 # Hello, I'm Lakshay Jain 👋
 
-Welcome to my GitHub profile! I'm passionate about coding and technology, always eager to learn and contribute to exciting projects.
-
+Welcome to my GitHub profile! I'm passionate about coding, technology, and the rapidly evolving world of AI. I'm always eager to learn, experiment, and contribute to exciting projects.
 
 ## 🚀 About Me
 
 - 💻 **Full-stack Developer**
 - 👨‍💻 Building web apps, APIs, and scalable systems
-- 💬 Ask me about **Web Development** or **Data Structures & Algorithms**
+- 🤖 **Deeply interested in Generative AI (GenAI)** — exploring, learning, and building in this space!
+- 🧠 Actively working on and maintaining GenAI projects:
+  - [persona](https://github.com/LakshayJ17/persona) – Personalized AI chatbot framework
+  - [chaidocs-rag](https://github.com/LakshayJ17/chaidocs-rag) – Retrieval-Augmented Generation (RAG) for Chai documentation
+  - [rag-pdf](https://github.com/LakshayJ17/rag-pdf) – RAG pipeline for PDFs and document Q&A
+  - [Ai-agent-project](https://github.com/LakshayJ17/Ai-agent-project) – Autonomous GenAI agent platform
+  - [persona-python](https://github.com/LakshayJ17/persona-python) – Python version of persona chatbot
+  - [rag-pdf-project](https://github.com/LakshayJ17/rag-pdf-project) – Advanced PDF RAG system
+  - [rag-chaidocs](https://github.com/LakshayJ17/rag-chaidocs) – Enhanced RAG for Chaidocs
+- 💬 Ask me about **Web Development**, **AI/ML**, or **Data Structures & Algorithms**
 - 📫 Reach me at [lakshayjain01lj@gmail.com](mailto:lakshayjain01lj@gmail.com)
 
 ---
@@ -15,7 +23,7 @@ Welcome to my GitHub profile! I'm passionate about coding and technology, always
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,java,mongodb,postgres,prisma,docker,aws,vercel,netlify,github,git,clerk" alt="My Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,java,python,mongodb,postgres,prisma,docker,aws,vercel,netlify,github,git,clerk,openai" alt="My Tech Stack" />
 </p>
 
 <details>
@@ -32,6 +40,11 @@ Welcome to my GitHub profile! I'm passionate about coding and technology, always
     <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
     <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
     <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+    <img src="https://img.shields.io/badge/-LangChain-0FA36B?style=for-the-badge&logoColor=white" alt="LangChain"/>
+    <img src="https://img.shields.io/badge/-QdrantDB-FF6F00?style=for-the-badge&logo=qdrant&logoColor=white" alt="QdrantDB"/>
+    <img src="https://img.shields.io/badge/-PineconeDB-1A2636?style=for-the-badge&logo=pinecone&logoColor=white" alt="PineconeDB"/>
     <img src="https://img.shields.io/badge/-Hono-FF5733?style=for-the-badge&logo=hono&logoColor=white" alt="Hono"/>
     <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
     <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
@@ -62,7 +75,7 @@ Welcome to my GitHub profile! I'm passionate about coding and technology, always
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LakshayJ17&repo=paytm-app&theme=radical)](https://github.com/LakshayJ17/paytm-app)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LakshayJ17&repo=medium-blog-website&theme=radical)](https://github.com/LakshayJ17/medium-blog-website)
 
-
+---
 
 ## 📫 Connect with Me
 
@@ -98,5 +111,3 @@ while True:
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </div>
-
----
