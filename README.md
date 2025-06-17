@@ -84,15 +84,6 @@
 
 ---
 
-### 🧩 Fun Fact
-
-```python
-while True:
-    code()
-    learn()
-    coffee()
-    repeat()
-```
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
