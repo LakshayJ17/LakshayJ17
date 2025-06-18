@@ -18,7 +18,7 @@
   - [persona-python](https://github.com/LakshayJ17/persona-python): Python persona chatbot
   - [rag-pdf-project](https://github.com/LakshayJ17/rag-pdf-project): Advanced PDF RAG
   - [rag-chaidocs](https://github.com/LakshayJ17/rag-chaidocs): Enhanced RAG for Chaidocs
-- 💬 Ask me about **Web Dev**, **AI/ML**, or **DSA**
+- 💬 Ask me about **Web Dev**, **GenAI**, or **DSA**
 
 ---
 
