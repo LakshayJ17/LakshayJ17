@@ -13,11 +13,8 @@
 
 - 💻 Building web apps, APIs & scalable systems
 - 🤖 Exploring and creating with Generative AI
-- 🧠 Maintaining several GenAI projects:
-  - [Ai-agent-project](https://github.com/LakshayJ17/Ai-agent-project): Autonomous GenAI agent platform
-  - [persona-python](https://github.com/LakshayJ17/persona-python): Python persona chatbot
-  - [rag-pdf-project](https://github.com/LakshayJ17/rag-pdf-project): Advanced PDF RAG
-  - [rag-chaidocs](https://github.com/LakshayJ17/rag-chaidocs): Enhanced RAG for Chaidocs
+- 🧠 Currenly working on : 
+  - [AskMyPDF](https://github.com/LakshayJ17/Askmypdf): Chat with your PDF 
 - 💬 Ask me about **Web Dev**, **GenAI**, or **DSA**
 
 ---
