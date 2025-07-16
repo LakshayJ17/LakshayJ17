@@ -15,6 +15,7 @@
 - 🤖 Exploring and creating with Generative AI
 - 🧠 Currenly working on : 
   - [AskMyPDF](https://github.com/LakshayJ17/Askmypdf): Chat with your PDF 
+  - [TaskFlux](https://github.com/LakshayJ17/TaskFlux): Automate with ease 
 - 💬 Ask me about **Web Dev**, **GenAI**, or **DSA**
 
 ---
