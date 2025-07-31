@@ -75,8 +75,8 @@
   <a href="https://github.com/LakshayJ17/paytm-app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=LakshayJ17&repo=paytm-app&theme=radical" alt="paytm-app" />
   </a>
-  <a href="https://github.com/LakshayJ17/medium-blog-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LakshayJ17&repo=medium-blog-website&theme=radical" alt="medium-blog-website" />
+  <a href="https://github.com/LakshayJ17/BlogNest">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LakshayJ17&repo=BlogNest&theme=radical" alt="BlogNest" />
   </a>
 </p>
 
