@@ -72,8 +72,8 @@
 ### 🌟 Top Repositories
 
 <p align="center">
-  <a href="https://github.com/LakshayJ17/paytm-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LakshayJ17&repo=paytm-app&theme=radical" alt="paytm-app" />
+  <a href="https://github.com/LakshayJ17/Askmypdf">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LakshayJ17&repo=Askmypdf&theme=radical" alt="Askmypdf" />
   </a>
   <a href="https://github.com/LakshayJ17/BlogNest">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=LakshayJ17&repo=BlogNest&theme=radical" alt="BlogNest" />
@@ -81,5 +81,3 @@
 </p>
 
 ---
-
-
