@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Lakshay Jain 👋</h1>
 <p align="center">
   <b>Full-stack Developer | GenAI Enthusiast | Always Learning</b><br>
-  <a href="mailto:lakshayjain01lj@gmail.com">lakshayjain01lj@gmail.com</a> •
+  <a href="mailto:lakshayjain1701@gmail.com">lakshayjain1701@gmail.com</a> •
   <a href="https://www.linkedin.com/in/lakshayj17">LinkedIn</a> •
   <a href="https://leetcode.com/u/meLaksh17/">LeetCode</a> •
   <a href="https://twitter.com/lakshcode">Twitter</a>
